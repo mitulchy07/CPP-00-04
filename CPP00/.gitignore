@@ -1,0 +1,26 @@
+# Compiled object files
+*.o
+*.obj
+
+# Executables
+megaphone
+phonebook
+account
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Build artifacts
+*.a
+*.so
+*.dylib
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
